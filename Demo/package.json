@@ -1,0 +1,13 @@
+{
+  "name": "yang-netconf-controller",
+  "version": "1.0.0",
+  "description": "Educational mock YANG and NETCONF configuration controller",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

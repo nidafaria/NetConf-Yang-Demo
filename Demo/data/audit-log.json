@@ -1,0 +1,25 @@
+[
+  {
+    "timestamp": "2026-10-18T09:25:08.995Z",
+    "deviceId": "olt-lab-01",
+    "operation": "edit-config",
+    "result": "success",
+    "interfaceCount": 2
+  },
+  {
+    "timestamp": "2026-10-18T09:33:53.347Z",
+    "deviceId": "olt-lab-01",
+    "operation": "edit-config",
+    "result": "success",
+    "interfaceCount": 2
+  },
+  {
+    "timestamp": "2026-10-18T09:35:01.498Z",
+    "deviceId": "olt-lab-01",
+    "operation": "edit-config",
+    "result": "validation-failed",
+    "errors": [
+      "interface[0].enabled must be true or false"
+    ]
+  }
+]

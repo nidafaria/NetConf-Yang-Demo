@@ -1,0 +1,21 @@
+{
+  "olt-lab-01": {
+    "updatedAt": "2026-10-18T09:33:53.345Z",
+    "configuration": {
+      "interfaces": {
+        "interface": [
+          {
+            "name": "gpon0/1",
+            "enabled": true,
+            "mtu": 1500
+          },
+          {
+            "name": "gpon0/2",
+            "enabled": false,
+            "mtu": 2000
+          }
+        ]
+      }
+    }
+  }
+}
